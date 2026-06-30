@@ -77,7 +77,7 @@ const sendMessage = async () => {
 
   try {
     // ២. ផ្ញើសំណើទៅកាន់ Flask Backend (Port 5000)
-    const response = await fetch('http://127.0.0.1:5000/api/chat', {
+    const response = await fetch('https://chat-bot-shop.onrender.com/api/chat', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ message: messageText })
