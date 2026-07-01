@@ -52,7 +52,7 @@ import { ref, nextTick } from 'vue'
 
 const userInput = ref('')
 const chatHistory = ref([
-  { role: 'model', text: 'សួស្តីបាទ! ខ្ញុំជាជំនួយការ AI របស់ហាង Cambodia Tech Shop។ តើខ្ញុំអាចជួយអ្វីលោកអ្នកបានខ្លះបាទ?' }
+  { role: 'model', text: 'សួស្តីបាទ! ខ្ញុំជាជំនួយការ AI របស់ហាង Tea Tik kok Shop។ តើខ្ញុំអាចជួយអ្វីលោកអ្នកបានខ្លះបាទ?' }
 ])
 const isLoading = ref(false)
 const chatContainer = ref(null)
