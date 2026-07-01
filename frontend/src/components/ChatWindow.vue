@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col h-screen max-w-md mx-auto border bg-gray-50 shadow-lg rounded-lg overflow-hidden my-4">
     <div class="bg-blue-600 p-4 text-white font-bold flex justify-between items-center">
-      <span>Cambodia Tech Shop - ជំនួយការ AI</span>
+      <span>Tea Tik kok Shop- ជំនួយការ AI</span>
       <span class="w-3 h-3 bg-green-400 rounded-full animate-pulse"></span>
     </div>
 
